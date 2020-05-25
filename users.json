@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "uuid": "b3f27b95-7ee2-4e8d-af74-2351bb26b480",
+      "username": "mike",
+      "password": "$2b$10$wvwaH/jB44qiEM1jMhQAp.4bjAFnxKgGYAJnp.iXdNbkRFoMXawCS",
+      "role": "user"
+    },
+    {
+      "uuid": "efc8f81e-eaf8-4717-aca3-813ae5694e6e",
+      "username": "miky",
+      "password": "$2b$10$XQ.JmIl6XllEqr8VtvOfxO6FenAKgOP1FUuE1KOkZEZSmFIXo6R0O",
+      "role": "admin"
+    },
+    {
+      "uuid": "60cff857-cfc8-44b0-ac0f-ad26b79f5e72",
+      "username": "mark",
+      "password": "$2b$10$DwzzCITjhAn.Y3YacDLS8uKt.7Fonp53EENxhN7fjFtn1Zfh5vQUK",
+      "role": "user"
+    },
+    {
+      "uuid": "1532bcdb-a7e2-4ff0-b89e-dc2075cd4163",
+      "username": "marko",
+      "password": "$2b$10$TCUv6AwZtTFEUrDeJZkVruw3dnmUgK5ph9e7WlKfLBTlyS6sFJQMS",
+      "role": "user"
+    },
+    {
+      "uuid": "4ab5ab40-927e-41f6-b356-d95af2cdb07d",
+      "username": "made",
+      "password": "$2b$10$7FlbeFwFrly0WqtdLc411eDGTgdbBc7d3ThgGv3Puc3LCnxf/JWbm",
+      "role": "admin"
+    },
+    {
+      "uuid": "292f9f51-de4a-476c-b62d-b34edb0d0cbc",
+      "username": "mark",
+      "password": "$2b$10$KaNvmhtsoND8SlzlzXuAcepWl9N.zq3z.V9gZKtIfKu85IOUWv3AG",
+      "role": "admin"
+    },
+    {
+      "uuid": "6f5232c7-997a-4962-ba2c-ced53a74fdd5",
+      "username": "michele",
+      "password": "$2b$10$PE2JrCPKc0lrMeNX7AgEuOkDiA/lQugeWG46PWly74Ze0w2AB.3b.",
+      "role": "user"
+    }
+  ]
+}
